@@ -1,2 +1,2 @@
 # CursoGitRepositorio
- curso git
+ Curso Git TED N1
